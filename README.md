@@ -5,7 +5,7 @@
 
 - 🔭 The last project I worked on is [MVP Tiller Dashboard](https://www.notion.so/MVP-Tiller-Dashboard-26982c849ba880778458c2269df43d19?source=copy_link)
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/Personal-Website-26abb9c1b8eb81c4a2eccd30fdb53c30?source=copy_link](https://www.notion.so/Personal-Website-26abb9c1b8eb81c4a2eccd30fdb53c30?source=copy_link)
+- 👨‍💻 All of my projects are available below.
 
 - 📫 How to reach me **idildorak@gmail.com**
 
@@ -29,6 +29,7 @@
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=m00b3j0hbwawl8d087h4kr0fy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=m00b3j0hbwawl8d087h4kr0fy&redirect=true)
+
 
 
 
