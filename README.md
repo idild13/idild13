@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_bg.png" alt="Background" width="1000">
+  <img src="github bg.png" alt="Background" width="1000">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idild13&label=Profile%20views&color=0e75b6&style=flat" alt="idild13" /> </p>
@@ -32,6 +32,7 @@
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=m00b3j0hbwawl8d087h4kr0fy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=m00b3j0hbwawl8d087h4kr0fy&redirect=true)
+
 
 
 
