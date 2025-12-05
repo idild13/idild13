@@ -10,7 +10,7 @@
 
 - 👨‍💻 A selection of the **data and BI projects I completed as part of Le Wagon’s Data Analytics Bootcamp** can be found below.
 
-- 📫 How to reach me **idildorak@gmail.com**
+- 📫 How to reach me **idildorak@gmail.com** (main) or **idil4lw@gmail.com** (secondary).
 
 - ⚡ **Fun fact:** I once had Rihanna follow my Instagram and Twitter accounts by drawing her own cartoon character.
 
@@ -32,5 +32,6 @@
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=m00b3j0hbwawl8d087h4kr0fy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=m00b3j0hbwawl8d087h4kr0fy&redirect=true)
+
 
 
