@@ -2,13 +2,13 @@
   <img src="github bg.png" alt="Background" width="1000">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idild13&label=Profile%20views&color=0e75b6&style=flat" alt="idild13" /> </p>
-
-- 🚀 I'm a passionate and strategic marketing and data analyst from Berlin.
+ Hi, I’m Idil 👋
+ 
+- 🚀 Berlin-based Marketing & Data Analyst working across CRM, marketing, sales, and product — I like building dashboards, improving funnels, and automating lifecycle journeys.
 
 - 🔭 The last project I worked on is [MVP Tiller Dashboard](https://www.notion.so/MVP-Tiller-Dashboard-26982c849ba880778458c2269df43d19?source=copy_link)
 
-- 👨‍💻 A selection of the **data and BI projects I completed as part of Le Wagon’s Data Analytics Bootcamp** can be found below.
+- 👨‍💻 A selection of the **data and BI projects I completed** can be found below.
 
 - 📫 How to reach me **idildorak@gmail.com** (main) or **idil4lw@gmail.com** (secondary).
 
@@ -32,6 +32,7 @@
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=m00b3j0hbwawl8d087h4kr0fy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=m00b3j0hbwawl8d087h4kr0fy&redirect=true)
+
 
 
 
