@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="github bg.png" alt="Background" width="1000">
-</p>
 
- Hi, I’m Idil 👋
+Hi, I’m Idil 👋
  
 - 🚀 Berlin-based Marketing & Data Analyst working across CRM, marketing, sales, and product — I like building dashboards, improving funnels, and automating lifecycle journeys.
 
